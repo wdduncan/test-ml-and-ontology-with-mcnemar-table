@@ -1,1 +1,1 @@
-# Test Machine Learning on Ontology using McNemar's Test
+# Machine Learning on Ontology using McNemar's Test
