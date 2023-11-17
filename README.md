@@ -1,1 +1,1 @@
-# test-ml-and-ontology-with-mcnemar-table
+# Test Machine Learning on Ontology using McNemar's Test
