@@ -1,6 +1,7 @@
+pip
 pandas
 mlxtend
-sklearn
+scikit-learn
 shap
 numpy
 jupyter
