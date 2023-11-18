@@ -1,0 +1,6 @@
+pandas
+mlxtend
+sklearn
+shap
+numpy
+jupyter
