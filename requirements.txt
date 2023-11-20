@@ -5,3 +5,8 @@ scikit-learn
 shap
 numpy
 jupyter
+seaborn
+matplotlib
+mlxtend
+scipy
+statsmodels
